@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	border:1px solid black; 
+	background-color:gray;
+	margin: 0px 60px 0px 60px;
+	border-radius:5px;
+/* 	position:float; */
+}
+img{
+	height:150px;
+	width:150px;
+/* 	display:inline-flex; */
+/* 	padding:20px; */
+	border:1px solid gray;
+	margin:20px;
+	border-radius:15px;
+}
+#photo-heading{
+	text-align:center;
+}
+body{
+	background-color:black;
+}
